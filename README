@@ -1,0 +1,15 @@
+## list manager 
+
+through this you can perform all the crud operations i.e create , edit , update and delete your list 
+basic of node , express and mongoose is used to create this project
+all the data are stored on mongo db atlas ( cloud ) 
+
+## project setup
+
+TO RUN THIS LIST MANAGER PROJECT YOU NEED TO SET MONGO_URL IN .ENV FILE TO CONNECTION STRING FROM MONGO DB ATLAS
+
+IF THERE IS ANY PROBLEM WITH DB THEN YO NEED TO LOGIN TO MONGODB ATLAS AND CHECK IF YOU CURRENT IP IS LISTED
+
+ALL THE BASIC CRUD OPERATIONS CAN BE PERFORMED USING POSTMAN. NO FRONT END IS INCLUDED
+
+

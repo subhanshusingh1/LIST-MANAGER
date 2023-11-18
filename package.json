@@ -1,0 +1,17 @@
+{
+  "name": "listmanager",
+  "version": "1.0.0",
+  "description": "manage you day to day task here",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "subhanshu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
